@@ -5,6 +5,9 @@ PROGRAM _INIT
 	//BtnStart : BOOL;
 //	BtnStop : BOOL;
 	//MotorConveyor : BOOL;
+	//This concludes the test base for the Version control
+	//All versions can therefore be changed locally or remotely
+	
 	
 
 END_PROGRAM
@@ -22,9 +25,9 @@ END_PROGRAM
 
 PROGRAM _EXIT
 	(* Insert code here *)
-//	IF BtnStop THEN
+	IF BtnStop THEN
 		MotorConveyor := FALSE;
-//	END_IF
+	END_IF
 	 
 END_PROGRAM
 
