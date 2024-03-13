@@ -6,5 +6,9 @@ VAR
 	MotorConveyorRev 	: BOOL;	
 	Robot_HomePosition 	: BOOL;
 	Robot_HomingError	: BOOL;
+	Robot_MotorOn		: BOOL;
+	Robot_MotorOnState	: BOOL;
+	Robot_MotorOff		: BOOL;
+	Robot_MotorOffState	: BOOL;
 
 END_VAR
