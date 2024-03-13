@@ -5,5 +5,6 @@ VAR
 	MotorConveyorFwd 	: BOOL;
 	MotorConveyorRev 	: BOOL;	
 	Robot_HomePosition 	: BOOL;
+	Robot_HomingError	: BOOL;
 
 END_VAR
