@@ -1,8 +1,9 @@
 VAR
-	BtnStart : BOOL;
-	BtnStop : BOOL;
-	BtnEmStop : BOOL;
-	MotorConveyorFwd : BOOL;
-	MotorConveyorRev : BOOL;	
+	BtnStart 			: BOOL;
+	BtnStop 			: BOOL;
+	BtnEmStop 			: BOOL;
+	MotorConveyorFwd 	: BOOL;
+	MotorConveyorRev 	: BOOL;	
+	Robot_HomePosition 	: BOOL;
 
 END_VAR
