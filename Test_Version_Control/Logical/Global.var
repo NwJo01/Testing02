@@ -2,6 +2,7 @@ VAR
 	BtnStart 			: BOOL;
 	BtnStop 			: BOOL;
 	BtnEmStop 			: BOOL;
+	nGenAlarmCode		: DWORD;
 	MotorConveyorFwd 	: BOOL;
 	MotorConveyorRev 	: BOOL;	
 	Robot_HomePosition 	: BOOL;
@@ -10,5 +11,6 @@ VAR
 	Robot_MotorOnState	: BOOL;
 	Robot_MotorOff		: BOOL;
 	Robot_MotorOffState	: BOOL;
+	Robot_nOrderActive	: USINT;
 
 END_VAR
