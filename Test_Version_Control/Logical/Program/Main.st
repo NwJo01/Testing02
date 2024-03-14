@@ -22,9 +22,9 @@ END_PROGRAM
 
 PROGRAM _EXIT
 	(* Insert code here *)
-//	IF BtnStop THEN
-		MotorConveyor := FALSE;
-//	END_IF
+	IF BtnStop THEN
+	MotorConveyor := FALSE;	
+	END_IF
 	 
 END_PROGRAM
 
