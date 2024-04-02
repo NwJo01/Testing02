@@ -4,5 +4,7 @@ VAR
 	BtnEmStop : BOOL;
 	MotorConveyorFwd : BOOL;
 	MotorConveyorRev : BOOL;	
+//This command Tests the connection of Jira to GitHub
+	RobotCodeJira : BOOL;
 
 END_VAR
