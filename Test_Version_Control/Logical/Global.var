@@ -8,5 +8,6 @@ VAR
 	RobotCodeJira : BOOL;
 //This command Tests the connection of Jira to GitHub
 	RobotCodeJira : BOOL;
-
+//This command Tests the connection of Jira to GitHub
+	RobotCodeJira : BOOL;
 END_VAR
